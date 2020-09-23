@@ -1,0 +1,7 @@
+1.git init (# ls -a [check file .git was created])
+2.git status (red text show file not save now)
+3.git add filename (save file when use command git status filename will be green color)
+4.git commit -m "Complete Chapter 1"[Note]
+5.git log (check who commit and Note)
+
+ 
